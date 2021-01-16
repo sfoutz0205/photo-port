@@ -32,4 +32,3 @@ describe('ContactForm button text', () => {
     expect(getByTestId('btntag')).toHaveTextContent('Submit')
   });
 });
-
